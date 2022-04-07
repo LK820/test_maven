@@ -8,11 +8,6 @@ public class Tbag {
     public static void main(String[] args) {
         System.out.println(1);
         System.out.println(1);
-        System.out.println("hot-fix4");
-        System.out.println("hot-fix6");
-        System.out.println("hot-fix7");
-        System.out.println("master-fix5");
-        System.out.println("master-fix6");
     }
 
 }
